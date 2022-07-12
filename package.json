@@ -33,6 +33,8 @@
     "wepack-cli": "^0.0.1-security"
   },
   "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "graphql": "^16.5.0",
     "intersection-observer": "^0.12.2",
     "lint": "^0.7.0",
     "react": "^18.2.0",
